@@ -1,5 +1,5 @@
 # How to use Wire in Go, examples
-Hello! This repo is a part of [the video tutorial about using Wire in Go](https://youtu.be/bSt2R4hQla4) (in russian).
+Hello! This repo is a part of [the video tutorial about using Wire in Go](https://youtu.be/AUWgKGRGBEU) (in russian).
 
 Do not hesitate to subscribe and leave a comment;)
 
